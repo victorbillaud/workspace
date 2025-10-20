@@ -3,7 +3,7 @@ name = "workspace"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.9"
 dependencies = [
     "hf-transfer>=0.1.9",
     "whisperx>=3.7.4",
